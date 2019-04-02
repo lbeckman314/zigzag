@@ -6,7 +6,7 @@ A homegrown TCP chat system built with love.
 
 -----
 
-** QUICK START
+## QUICK START
 
 ```sh
 python3 zigzag-server.py PORT
@@ -17,13 +17,13 @@ where ADDRESS is the IP address of the host running the server, and PORT is the 
 
 -----
 
-** EXTRA CREDIT
+## EXTRA CREDIT
 
 "Make it possible for either host to send at any time (while the connection is active) without “taking turns”."
 
 -----
 
-** SERVER
+## SERVER
 
 To run the server, enter:
 
@@ -56,7 +56,7 @@ port number: 12000
 
 -----
 
-** CLIENT
+## CLIENT
 
 To run the client, enter:
 
@@ -83,7 +83,7 @@ Enter your nickname:
 
 -----
 
-** UNINSTALLATION
+## UNINSTALLATION
 
 To delete the program and all associated files (including this README and the zip file), run:
 
